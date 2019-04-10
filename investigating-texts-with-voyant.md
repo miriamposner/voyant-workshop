@@ -80,7 +80,7 @@ Voyant has some nice features for sharing and embedding. If you hover your curso
 
 Each panel in the Voyant interface contains a similar icon, meaning you can also link to or embed each visualization separately.
 
-**Stopwords** are words that a tool ignores, on the logic that they aren't meaningful and may skew your results. Voyant automatically incorporates a list of stopwords, including **the, and, **and the like. To see and alter the stopwords Voyant uses, click on the **Define options for this tool** icon in each panel's upper right-hand corner.
+**Stopwords** are words that a tool ignores, on the logic that they aren't meaningful and may skew your results. Voyant automatically incorporates a list of stopwords, including **the**, **and**, and the like. To see and alter the stopwords Voyant uses, click on the **Define options for this tool** icon in each panel's upper right-hand corner.
 
 ![][7]
 
